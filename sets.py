@@ -24,7 +24,7 @@
 # print(my_set4)
 
 
-# Simetric difference
+# Symetric difference
 my_set1 = {3, 4, 5}
 my_set2 = {5, 6, 7}
 
